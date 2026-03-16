@@ -1,6 +1,6 @@
 # MuonPOMDPs.jl
 
-Muon tomography modeled as a POMDP using POMDPs.jl. Collaboration between Stanford Mineral-X, Ideon, and the Stanford Intelligent Systems Laboratory (SISL).
+Muon tomography modeled as a POMDP using POMDPs.jl
 
 Uses the _inversion variational autoencoder_ (I-VAE) developed for this project ([sisl/I-VAE](https://github.com/sisl/I-VAE))
 
@@ -27,7 +27,4 @@ Install Python dependencies:
 
 ```bash
 pip install -r python/requirements.txt
-```
-
-### Acknowledgement
-We want to thank Ideon Technologies for providing the muon tomography observation simulation code.
+``
