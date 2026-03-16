@@ -2,7 +2,7 @@
 
 Muon tomography modeled as a POMDP using POMDPs.jl
 
-Uses the _inversion variational autoencoder_ (I-VAE) developed for this project ([sisl/I-VAE](https://github.com/anonymous-algodev/I-VAE))
+Uses the _inversion variational autoencoder_ (I-VAE) developed for this project ([anonymous-algodev/I-VAE](https://github.com/anonymous-algodev/I-VAE))
 
 See the [`notebooks/i-vae.ipynb`](./notebooks/i-vae.ipynb) notebook for usage.
 
