@@ -1,0 +1,10 @@
+numpy
+matplotlib
+requests
+discretize
+SimPEG
+pymatsolver
+scikit-fmm
+torch
+pickle
+tqdm
